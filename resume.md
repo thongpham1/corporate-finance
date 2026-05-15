@@ -11,7 +11,13 @@
 ---
 
 ## PROFESSIONAL EXPERIENCE
-**VNG Group | ZaloPay**, *Marketing Director* — Ho Chi Minh City, Vietnam — Jan 2018–Present  
+**PNJ Group**, *New Business Development Director* — Ho Chi Minh City, Vietnam — 2023–Present  
+- Spearhead the group's strategic expansion into lifestyle categories beyond traditional jewelry  
+- Develop and launch three new business verticals: **Arta** (art-inspired lifestyle), **Mancode** (men's fashion and accessories), and **Canali** (Italian luxury menswear franchise in Vietnam)  
+- Define go-to-market strategies, brand positioning, and operational frameworks for each new brand  
+- Drive PNJ's transformation from a jewelry-focused corporation into a diversified lifestyle group  
+
+**VNG Group | ZaloPay**, *Marketing Director* — Ho Chi Minh City, Vietnam — Jan 2018–2023  
 - Developed go-to-market strategy to enter Vietnam's payment industry, one of Southeast Asia's most competitive emerging markets  
 - Built marketing team from scratch; reported directly to Group CEO  
 - Drove customer acquisition and retention via digital channels, merchant and banking partnerships  
@@ -56,5 +62,5 @@
 
 ## SKILLS AND INTERESTS
 **Languages:** Vietnamese (Native), English (Professional)  
-**Core Skills:** Growth Strategy · Digital Marketing · E-commerce · Fintech · CRM · Team Leadership · Analytical Thinking · General Management  
+**Core Skills:** New Business Development · Brand Portfolio Expansion · Growth Strategy · Digital Marketing · E-commerce · Fintech · CRM · Luxury Retail · Team Leadership · Analytical Thinking · General Management  
 **Interests:** Travel | Badminton | Gym | Minimalism  
