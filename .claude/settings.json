@@ -1,0 +1,42 @@
+{
+  "marketplace": "anthropics/financial-services",
+  "plugins": {
+    "core": [
+      "financial-analysis@claude-for-financial-services"
+    ],
+    "agents": [
+      "pitch-agent@claude-for-financial-services",
+      "gl-reconciler@claude-for-financial-services",
+      "market-researcher@claude-for-financial-services"
+    ],
+    "bundles": [
+      "investment-banking@claude-for-financial-services",
+      "equity-research@claude-for-financial-services"
+    ]
+  },
+  "permissions": {
+    "allow": [
+      "Bash(find:*)",
+      "Bash(grep:*)",
+      "Bash(ls:*)",
+      "Bash(cat:*)",
+      "Bash(node:*)",
+      "Bash(npm:*)",
+      "Bash(git status)",
+      "Bash(git diff:*)",
+      "Bash(git log:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Read(*)",
+      "Write(docs/**)",
+      "Write(analysis/**)",
+      "Write(deliverables/**)",
+      "Edit(docs/**)",
+      "Edit(analysis/**)",
+      "Edit(deliverables/**)",
+      "Edit(CLAUDE.md)",
+      "Edit(README.md)"
+    ]
+  }
+}
